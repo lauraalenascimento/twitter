@@ -1,0 +1,211 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.esquerda{
+    margin-left: 300px;
+}
+.twitter{
+    margin: 10px;
+}
+.hashtag{
+    margin: 10px;  
+}
+.configuracao{
+    margin: 10px; 
+}
+
+
+/* main{
+    border: 1px solid #B7B7B7;
+    height: 1000px;
+    width: 1500px;
+    
+} */
+.direita{
+    
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    margin-right: 50px;
+   
+}
+.conteudodeinscricao{
+    border: 1px  solid   #B7B7B7;
+    border-radius: 17px;
+    
+
+}
+.titulomodal{
+    margin: 10px;
+}
+.btn-google{
+    margin-top: 30px;
+    height: 40px;
+    width: 300px;
+    border-radius: 20px;
+    border: 1px solid #B7B7B7;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.btn-apple{
+ 
+        margin-top: 10px;
+        height: 40px;
+        width: 300px;
+        border-radius: 20px;
+        border: 1px solid #B7B7B7;
+        background-color: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+}
+.btn-criar{
+    margin-top: 10px;
+    height: 40px;
+    width: 300px;
+    border-radius: 20px;
+    border: 1px solid #B7B7B7;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+/* modal */
+/* .container{
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: black;
+}
+
+.itemsdocontainer{
+    background-color: #fff;
+    margin: 15% auto ;
+    padding: 20px ;
+    border:1px solid #B7B7B7;
+    width: 80%;
+}
+.close{
+    color:#B7B7B7;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+.close:hover
+.close:focus{
+    color:black;
+    text-decoration: none;
+    cursor: pointer;
+
+}
+.itemsdocontainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+} */
+.btngoo{
+    margin-top: 30px;
+ height: 40px;
+ width: 300px;
+ border-radius: 20px;
+ border: 1px solid #B7B7B7;
+ background-color: #fff;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+.btnappl{
+    margin-top: 20px;
+    height: 40px;
+    width: 300px;
+    border-radius: 20px;
+    border: 1px solid  #B7B7B7 ;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+}
+.email{
+    margin-top: 10px;
+    width: 300px;
+    height: 50px;
+    border: 1px solid #B7B7B7;
+}
+.avanca{
+    margin-top: 20px;
+    height: 40px;
+    width: 300px;
+    border-radius: 20px;
+    background-color:black ;
+    border: none ;
+    color: #fff;
+}
+.senha{
+    height: 40px;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: 20px;
+    border: 1px solid #B7B7B7 ;
+}
+p{
+    margin-top: 20px;
+}
+
+footer{
+    color: #fff;
+    height: 100px;
+    background-color: #05AFF2;
+    display: flex;
+   align-items:center;
+   justify-content:center;
+
+}
+
+
+.btns{
+    
+    display: flex;
+   align-items:center;
+   justify-content:center;
+   margin-left: 400px;
+
+  
+}
+.entrar{
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+    border: 1px solid #fff; 
+    background-color:#05AFF2 ;
+    color:#fff;
+    /* display: flex;
+    align-items:center;
+    justify-content:center;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif; */
+    
+}
+.inscreva-se{
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+    border: none;
+    margin-left: 10px;
+}
